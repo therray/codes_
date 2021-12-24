@@ -1,0 +1,49 @@
+// author: erray
+#include <bits/stdc++.h>
+ 
+using namespace std;
+ 
+int main() {
+  ios_base::sync_with_stdio(false);
+  cin.tie(0);
+  int n, m, q;
+  cin >> n >> m >> q;
+  vector<vector<int>> g(n);
+  for (int i = 0; i < m; ++i) {
+    int x, y;
+    cin >> x >> y;
+    --x, --y;
+    g[y].push_back(x);
+  }
+
+  
+  vector<tuple<int, int, vector<int>>> qs(q);
+  for (int i = 0; i < q; ++i) {
+    int t, s;
+    cin >> t >> s;
+    get<0>(qs[i]) = i;
+    get<1>(qs[i]) = t - 1;
+    get<2>(qs[i]).resize(s);
+    for (int j = 0; j < s; ++j) {
+      cin >> get<2>(qs[i])[j];
+      --get<2>(qs[i])[j];
+    }
+  }
+
+  sort(qs.begin(), qs.end(), [&](auto x, auto y) {
+    return get<1>(x) < get<1>(y);
+  });
+
+  int p = 0;
+  vector<int> ans(q);
+  for (auto[id, t, inv] : qs) {
+     while (p <= t) {
+      
+      ++p;
+    }
+  }
+
+  for (int i = 0; i < q; ++i) {
+    cout << ans[i] << '\n';
+  }
+}

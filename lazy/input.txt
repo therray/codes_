@@ -1,0 +1,91 @@
+36	Datel (C&D Tech)	Innovation and Excellence
+37	Dell Computer	Easy as Dell.
+38	Dell Computer	Get More out of Now
+39	D-Link	Building Networks for People
+40	Dow Corning	We Help You Invent the Future
+41	DuPont	The Miracles of Science
+42	EM Research	The ultimate source for miniature frequency synthesizers
+43	Emerson Electric Company	Consider It Solved
+44	Ericsson	Taking You Forward
+45	ExxonMobil	Taking on the world’s toughest energy challenges
+46	Fiber-Span, LLC	RF On Fiber
+47	Fujitsu	The Possibilities are Infinite
+48	General Dynamics	Strength On Your Side
+49	General Electric	Imagination at Work
+50	GigaLane	Innovation and Excellence in RF & Microwave
+51	Globe Telecom	Making great things possible
+52	Hewlett-Packard	Invent
+53	Hitachi	Inspire the Next
+54	Honeywell	We are Honeywell
+55	I.F. Engineering Corp	Your challenge is our progress
+56	IBM	We Make IT Happen
+57	IDT	Powering What’s Next
+58	IFI	The Power of Choice
+59	Infineon	Keep on Thinking
+60	Infosys	Powered by Intellect Driven by Values
+61	Intel	Intel Inside
+62	Intersil	Technology at the Speed of Life
+63	IRobot	Business Mechanisms to Accelerate Change
+64	ITT	Engineered for Life
+65	JRC	You Don’t Need Wires to Communicate
+66	Keithley	A Greater Measure of Confidence
+67	Kodak	A Virtual World of Live Pictures
+68	Konica Minolta	The Essentials of Imaging
+69	Linksys	At Linksys – We are making connectivity easier
+70	Linx Technologies	Wireless Made Simple
+71	Lockheed Martin	We Never Forget Who We’re Working For
+72	Lucent Technologies	Creating value through true convergence.
+73	MegaPhase	Our Customers Connect With Us™
+74	Micrel	The Infinite Bandwidth Company
+75	Micron	The Future of Memory
+76	Microsoft	Your potential. Our passion.
+77	Microsoft	Where do you want to go today?
+78	Mitsubishi Semiconductor	Changes for the Better
+79	Motorola	Hello. Moto
+80	muRata	Innovator in Electronics
+81	mWAVE Industries, LLC	Your Partner In Antenna Technology
+82	MySQL	To Make Superior Data Management Available and Affordable for All
+83	National Semiconductor	The Sight & Sound of Information
+84	NEC Corporation	Empowered by Innovation
+85	Nintendo	Born to play
+86	Nokia	Connecting People
+87	Nortel Networks	Business Without Boundaries
+88	Novell	Software for the Open Enterprise
+89	NVIDIA	The way it’s meant to be played
+90	Olympus Corporation	Your Vision, Our Future
+91	Optus1	Yes
+92	Oracle	Information Driven:
+93	Orbital Sciences Corporation	The Leader in Small Space and Rocket Systems
+94	Panasonic	Ideas for Life
+95	Peregrine Systems	Evolve Wisely
+96	PerkinElmer	Precisely
+97	Philips	Sense and Simplicity
+98	Pioneer Rocketplane	Permitting Travel to Space, Travel in Space, and Travel Through Space
+99	Plantronics	Sound Innovation
+100	PMC-Sierra	Accelerating The Broadband Revolution
+101	Pragma	Operate at Your Optimum
+102	RCAT Systems	You push the limits. We measure it.
+103	RF Bites	Helping RF Designers one Bite at a time
+104	RF Cafe	Now that’s Progressive
+105	RF Cafe	A Disruptive Web Presence
+106	RF Cafe	Your Onramp to the Information Superhighway
+107	RF Cafe	Specialty Materials That Make Our World
+108	Rohde & Schwarz	Pushing Limits
+109	Samsung Electronics	Imagine
+110	Sprint Nextel Corporation	Yes you can
+111	ST Microelectronics	More Intelligence Solutions
+112	Sun Microsystems	The Network Is The Computer
+113	Symbol Technologies	The Enterprise Mobility Company
+114	Texas Instruments	Technology for Innovators
+115	Thor Labs	Photonics in the Fast Lane
+116	Toshiba	Committed to People, Committed to the Future.
+117	Unisys	We Make It Happen
+118	United Technologies Corporation	This is Momentum
+119	Verizon Wireless	Can You Hear Me Now? Good.
+120	vidaRF	Simple Solutions for Complex Connections
+121	Vodafone	How Are You?
+122	Vodafone	Make the Most of Now
+123	Wyse	Global Leader in Thin Computing
+124	Xerox	The Document Company
+125	Xilinx	The Programmable Logic Company
+126	XMA Corporation	When Performance Matters

@@ -1,0 +1,91 @@
+Datel (C&D Tech)
+Dell Computer
+Dell Computer
+D-Link
+Dow Corning
+DuPont
+EM Research
+Emerson Electric Company
+Ericsson
+ExxonMobil
+Fiber-Span, LLC
+Fujitsu
+General Dynamics
+General Electric
+GigaLane
+Globe Telecom
+Hewlett-Packard
+Hitachi
+Honeywell
+I.F. Engineering Corp
+IBM
+IDT
+IFI
+Infineon
+Infosys
+Intel
+Intersil
+IRobot
+ITT
+JRC
+Keithley
+Kodak
+Konica Minolta
+Linksys
+Linx Technologies
+Lockheed Martin
+Lucent Technologies
+MegaPhase
+Micrel
+Micron
+Microsoft
+Microsoft
+Mitsubishi Semiconductor
+Motorola
+muRata
+mWAVE Industries, LLC
+MySQL
+National Semiconductor
+NEC Corporation
+Nintendo
+Nokia
+Nortel Networks
+Novell
+NVIDIA
+Olympus Corporation
+Optus1
+Oracle
+Orbital Sciences Corporation
+Panasonic
+Peregrine Systems
+PerkinElmer
+Philips
+Pioneer Rocketplane
+Plantronics
+PMC-Sierra
+Pragma
+RCAT Systems
+RF Bites
+RF Cafe
+RF Cafe
+RF Cafe
+RF Cafe
+Rohde & Schwarz
+Samsung Electronics
+Sprint Nextel Corporation
+ST Microelectronics
+Sun Microsystems
+Symbol Technologies
+Texas Instruments
+Thor Labs
+Toshiba
+Unisys
+United Technologies Corporation
+Verizon Wireless
+vidaRF
+Vodafone
+Vodafone
+Wyse
+Xerox
+Xilinx
+XMA Corporation
